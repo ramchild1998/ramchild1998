@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramadiansyah</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate software developer | backend specialize from Indonesia</h3>
 
 📊 Profile Stats
 <p align="left">
